@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+pymysql
+pdfplumber
+python-docx
+pandas
+pillow
+pytesseract
+python-multipart
